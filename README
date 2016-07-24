@@ -16,3 +16,5 @@ AWS(AMAZON WEB SERVICE)-UBUNTU-(PHP,MYSQL) 사용
 FACEBOOK 로그인 연동 - ID, NAME 사용,최초 페이스북 로그인시 ID,NAME,최초 로그인 시간 DB에 등록됨
 게임의 한 턴이 끝날때 마다 해당 시간이 DB로 전송됨
 앱 설명 : 임의의 규칙에 따라 버튼을 누르는 순서가 달라지며 가장 많이 맞춘 점수가 최고 점수로 DB에 등록됨
+
+Google Playstore  -> dadakstella 검색
